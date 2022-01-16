@@ -1,4 +1,4 @@
-# Advanced OS - HW3
+# Advanced OS - HW3 (individual)
 ## Q1
 KVM is a type II hypervisor written as a Linux kernel module, meaning it virtualizes the hardware. It essentially allows the kernel to act as a hypervisor.
 It exposes /dev/kvm interface.
